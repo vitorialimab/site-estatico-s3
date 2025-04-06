@@ -16,7 +16,7 @@ Este projeto demonstra como hospedar um site estático utilizando o Amazon S3. O
 - Configuração de acesso público via ACL  
 - Atualização do conteúdo do site com meu nome
 
-## Captura de Tela:
+## Captura de Tela
 ![Site estático hospedado no S3](img/imgsite.png)
 
 ## Observações:
