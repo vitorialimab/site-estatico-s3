@@ -2,7 +2,7 @@
 
 Este projeto demonstra como hospedar um site estático utilizando o Amazon S3. O site foi criado durante um laboratório guiado da AWS Academy, contendo arquivos básicos de HTML, CSS e JavaScript.
 
-## Tecnologias Utilizadas:
+## Tecnologias e Ferramentas Utilizadas:
 - HTML5  
 - CSS3  
 - JavaScript  
@@ -24,4 +24,4 @@ Este projeto foi realizado em um ambiente temporário de laboratório, portanto 
 
 ---
 
-**Feito com 💻 durante meus estudos em computação em nuvem com AWS Academy.**
+**Feito durante meus estudos em computação em nuvem com AWS Academy.**
