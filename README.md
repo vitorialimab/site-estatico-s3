@@ -17,7 +17,7 @@ Este projeto demonstra como hospedar um site estático utilizando o Amazon S3. O
 - Atualização do conteúdo do site com meu nome
 
 ## Captura de Tela
-![Site estático hospedado no S3](img/imgsite.png)
+![Site estático hospedado no S3](imgsite.png)
 
 ## Observações:
 Este projeto foi realizado em um ambiente temporário de laboratório, portanto o link original da hospedagem não está mais ativo.
